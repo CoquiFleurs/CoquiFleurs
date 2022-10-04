@@ -1,0 +1,313 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"sizes"
+			],
+			[
+				"col",
+				"col-md-auto"
+			],
+			[
+				"btn",
+				"btn-sm"
+			],
+			[
+				"bg",
+				"bg-PaleGoldenrod"
+			],
+			[
+				"dec",
+				"text-decoration"
+			],
+			[
+				"text",
+				"text-salmon"
+			],
+			[
+				"_se",
+				"$_SESSION"
+			],
+			[
+				"echo",
+				"echo()"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ech",
+				"echo"
+			],
+			[
+				"ec",
+				"echo"
+			],
+			[
+				"filter",
+				"filter_var()"
+			],
+			[
+				"FOR",
+				"foreach"
+			],
+			[
+				"em",
+				"empty()"
+			],
+			[
+				"prod",
+				"produits"
+			],
+			[
+				"Produi",
+				"Produit"
+			],
+			[
+				"emp",
+				"empty()"
+			],
+			[
+				"isse",
+				"isset()"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"a",
+				"alt"
+			],
+			[
+				"ses",
+				"session_start"
+			],
+			[
+				"sess",
+				"session_destroy()"
+			],
+			[
+				"arr",
+				"array()"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"c",
+				"col"
+			],
+			[
+				"iss",
+				"isset()"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"2px",
+				"20px"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/CoquiFleurs/index.php",
+		"/C/xampp/htdocs/CoquiFleurs/color.css",
+		"/C/xampp/htdocs/CoquiFleurs/inscription.php",
+		"/C/xampp/htdocs/CoquiFleurs/admin/index.php",
+		"/C/xampp/htdocs/CoquiFleurs/produit.php",
+		"/C/xampp/htdocs/CoquiFleurs/admin/deconnexion.php",
+		"/C/xampp/htdocs/CoquiFleurs/config/commandes.php",
+		"/C/xampp/htdocs/CoquiFleurs/login.php",
+		"/C/xampp/htdocs/CoquiFleurs/footer.php",
+		"/C/xampp/htdocs/CoquiFleurs/config/footer.php",
+		"/C/xampp/htdocs/CoquiFleurs/admin/supprimer.php",
+		"/C/xampp/htdocs/CoquiFleurs/admin/afficher.php",
+		"/C/xampp/htdocs/CoquiFleurs/config/connexion.php",
+		"/C/xampp/htdocs/CoquiFleurs/.php",
+		"/E/Svt/Projet/styles.css",
+		"/E/Svt/Projet/js.js",
+		"/E/Svt/Projet/Maintxt.html",
+		"/E/nsi/Jeu/CSS/style.css",
+		"/E/nsi/Jeu/index.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 113.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "deconnexion.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
